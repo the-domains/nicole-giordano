@@ -1,0 +1,28 @@
+name: Nicole Giordano
+favicon: null
+layout_spectrum: 0.7531984588131309
+typography_spectrum: 0.28694749157875776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.4925557146780193
+  lightness: 0.5139752770774066
+  saturation: 0.7611655229702592
+  rhythmicContrast: 0.7135442874860018
+purpose: []
